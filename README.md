@@ -5,6 +5,12 @@ A simple Rocket League tradebot running with NodeJS. Running in every environmen
 This Software as it is, is **against** the **Terms of Service from Psyonix** and is only being developed for experimental purposes.
 Be aware that using this Software as a productive service is bannable by Psyonix and they won't refund any lost items (definitly didnt happen to me^^)
 
+# Cancellation of GitHub Documentation
+This documentation is incomplete and may be outdated. Please visit [RL-Market.me](https://rl-market.me/) for more information.
+
+***
+
+
 # How to Install
 #### 1. Clone this Repository into your Project or download it as standalone
 
